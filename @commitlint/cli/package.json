@@ -53,7 +53,7 @@
     "@commitlint/utils": "^9.1.0",
     "babel-preset-commitlint": "^9.0.1",
     "cross-env": "7.0.2",
-    "execa": "^3.4.0",
+    "execa": "^4.0.0",
     "fs-extra": "^8.1.0"
   },
   "dependencies": {
